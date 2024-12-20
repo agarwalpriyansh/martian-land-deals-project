@@ -1,0 +1,3 @@
+Firstly create a virtual environment andactivateit.
+Once virtual environment is activated, then install the necessary Python packages
+pip install flask bs4 requests pymongo dnspython
